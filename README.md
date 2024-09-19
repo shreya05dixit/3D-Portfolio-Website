@@ -13,7 +13,7 @@
 
 ##  <br /> <a name="introduction">✨ Introduction</a>
 
-**[EN]** This 3D website, built with React and powered by Three.js, features engaging interactive elements. Navigate aboard a small plane to explore a floating island and discover various information. On the contact page, a fox will dynamically react as you fill out the fields!
+**[#]** This 3D website, built with React and powered by Three.js, features engaging interactive elements. Navigate aboard a small plane to explore a floating island and discover various information. On the contact page, a fox will dynamically react as you fill out the fields!
 
 ##  <br /> <a name="tech-stack">⚙️ Tech Stack</a>
 
