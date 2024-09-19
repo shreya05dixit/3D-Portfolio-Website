@@ -139,20 +139,20 @@ export const projects = [
         theme: 'btn-back-red',
         name: 'Property Price Estimator',
         description: 'Built an application model which focuses on predicting real estate prices in Banglore (India) using advanced regression techniques. It involves comprehensive data preprocessing, feature engineering, and model selection.',
-        link: 'https://github.com/',
+        link: 'https://github.com/shreya05dixit/Property-Pricing-Predictor',
     },
     {
         iconUrl: portfolio ,
         theme: 'btn-back-green',
         name: 'My 3D Portfolio Website',
         description: 'Designed an interactive 3D portfolio website, showcasing projects and education through immersive visuals and dynamic navigation.',
-        link: 'https://github.com/',
+        link: 'https://github.com/shreya05dixit/3D-Portfolio-Website',
     },
     {
         iconUrl: vision,
         theme: 'btn-back-blue',
         name: 'Object Dimension Measurement',
         description: 'Developed a system for object dimension measurement using OpenCV, enabling accurate calculation of object sizes through image processing techniques.',
-        link: 'https://github.com/',
+        link: 'https://github.com/shreya05dixit/Object-Dimension-Measurement',
     },
 ];
