@@ -110,7 +110,7 @@ export const experiences = [
         company_name: "Institute of Engineering & Technology (IET), DAVV, Indore (M.P.)",
         iconBg: "#b7e4c7",
         date: "October 2022 - Present",
-        grade: "CGPA : 8.11 (aggregate upto 4th sem)",
+        grade: "CGPA : 8.4 (aggregate upto 5th sem)",
     
     },
 ];
